@@ -1,0 +1,10 @@
+body{
+    display: flex;
+}
+/* .container-2{
+    flex: righ
+} */
+
+body div{
+    margin-left: 120px;
+}
